@@ -2,7 +2,8 @@
 using namespace std;
 int main(){
    int n;
-  cout<<"hello world"<<endl;}
+  cout<<"hello world"<<endl;
+}
   
 
 
